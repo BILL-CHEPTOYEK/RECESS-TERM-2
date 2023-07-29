@@ -1,0 +1,4 @@
+corn flakes: 24000.0
+corn flakes: 24000.0
+sugar: 42000.0
+yorghut: 21000.0
